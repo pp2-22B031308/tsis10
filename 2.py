@@ -1,6 +1,5 @@
-John, Smith, 555-123-4567
-Sarah, Johnson, 555-234-5678
-Michaelimport psycopg2
+
+import psycopg2
 
 connection = psycopg2.connect(
     host="localhost",
