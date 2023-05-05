@@ -291,4 +291,4 @@ while running:
     pygame.display.flip()
     clock.tick(FPS)
 
-print("GAGAGAGG")
+print("hello")
